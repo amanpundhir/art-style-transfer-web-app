@@ -31,7 +31,7 @@ How to Run the App
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/art-style-transfer-web-app.git
+git clone https://github.com/amanpundhir/art-style-transfer-web-app.git
 cd art-style-transfer-web-app
 ```
 
